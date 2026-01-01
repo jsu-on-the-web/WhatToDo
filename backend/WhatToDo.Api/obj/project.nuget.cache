@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DROvNRMcc0uscpvlVfBtdSmdIgPUC/IYfa4sHcJ7Cp1iPAg94mibQzIPBORoVooC0NCKrCuYZFyy8NS5N17rvg==",
+  "dgSpecHash": "FAtVe6QXldrrPYFvrLodnO0pmLVAtXhXNFZHLGSaKCH4oIg+W7iy1QbLXRL38lsZQ24HdyjNxsM2hStWy+itAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\WhatToDo.Api\\WhatToDo.Api.csproj",
+  "projectFilePath": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\backend\\WhatToDo.Api\\WhatToDo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jsury\\.nuget\\packages\\hotchocolate.aspnetcore\\15.1.11\\hotchocolate.aspnetcore.15.1.11.nupkg.sha512",
     "C:\\Users\\jsury\\.nuget\\packages\\hotchocolate.data.entityframework\\15.1.11\\hotchocolate.data.entityframework.15.1.11.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsury\\Documents\\coding\\whattodo\\WhatToDo.Api\\WhatToDo.Api.csproj": {}
+    "C:\\Users\\jsury\\Documents\\coding\\whattodo\\backend\\WhatToDo.Api\\WhatToDo.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsury\\Documents\\coding\\whattodo\\WhatToDo.Api\\WhatToDo.Api.csproj": {
+    "C:\\Users\\jsury\\Documents\\coding\\whattodo\\backend\\WhatToDo.Api\\WhatToDo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\WhatToDo.Api\\WhatToDo.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\backend\\WhatToDo.Api\\WhatToDo.Api.csproj",
         "projectName": "WhatToDo.Api",
-        "projectPath": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\WhatToDo.Api\\WhatToDo.Api.csproj",
+        "projectPath": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\backend\\WhatToDo.Api\\WhatToDo.Api.csproj",
         "packagesPath": "C:\\Users\\jsury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\WhatToDo.Api\\obj\\",
+        "outputPath": "C:\\Users\\jsury\\Documents\\coding\\whattodo\\backend\\WhatToDo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jsury\\AppData\\Roaming\\NuGet\\NuGet.Config",
