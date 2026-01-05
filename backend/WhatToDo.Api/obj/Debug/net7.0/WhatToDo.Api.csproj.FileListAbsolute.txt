@@ -1,0 +1,7 @@
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.csproj.AssemblyReference.cache
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.AssemblyInfoInputs.cache
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.AssemblyInfo.cs
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.csproj.CoreCompileInputs.cache
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jsury\Documents\coding\whattodo\backend\WhatToDo.Api\obj\Debug\net7.0\WhatToDo.Api.MvcApplicationPartsAssemblyInfo.cache
